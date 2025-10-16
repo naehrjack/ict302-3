@@ -6,14 +6,28 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 16 Oct 2025 11:16:18 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 16 Oct 2025 11:42:39 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maloney Page</title>
+      <link>http://localhost:1313/maloney-page/</link>
+      <pubDate>Thu, 16 Oct 2025 11:42:39 -0400</pubDate>
+      <guid>http://localhost:1313/maloney-page/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Naehr Post</title>
       <link>http://localhost:1313/posts/naehr-post/</link>
       <pubDate>Thu, 16 Oct 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/posts/naehr-post/</guid>
       <description>&lt;p&gt;This is some more content!!!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Baskin Page</title>
+      <link>http://localhost:1313/baskin-page/</link>
+      <pubDate>Tue, 14 Oct 2025 12:13:35 -0400</pubDate>
+      <guid>http://localhost:1313/baskin-page/</guid>
+      <description>&lt;p&gt;pickles are the best&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>
