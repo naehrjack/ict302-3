@@ -1,4 +1,5 @@
 baseURL = 'https://coruscating-conkies-9af9d6.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = 'hugo-universal-theme-master'
+theme = 'ananke'
+date_format = 'January 2, 2006'
