@@ -11,7 +11,7 @@ date_format = 'January 2, 2006'
   weight = 1
   [[menu.main]]
   name = "About"
-  url = "/about/"
+  url = "/accessibility/"
   weight = 2
   [[menu.main]]
   name = "Blog"
