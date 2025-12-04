@@ -3,9 +3,7 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 date_format = 'January 2, 2006'
-[taxonomies]
-category = "categories"
-tag = "tags"
+
 
 
 [menu]
