@@ -11,5 +11,5 @@ For this page, we made sure to use colors with strong contrast so everything is 
 
 
 
-!\[test](/ss/.jpg)
+!\[test](/images/ss/.jpg)
 
