@@ -1,23 +1,19 @@
 {{ define "header" }}{{ partials.Include "page-header.html" . }}{{ end }}
 {{ define "main" }}
   <div class="flex-l mt2 mw8 center">
-    <article class="center cf pv5 ph3 ph4-ns mw7">
+    
       <header>
         <h1 class="f1">
           {{ .Title }}
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
-        {{ .Content }}
-      </div>
-    </article>
     {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
   {{ $mainSections := .Params.pullSection }}
   {{ $show_recent_posts := true }}
   {{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
   {{ $section_count := len $section }}
 
-  {{ if and ($show_recent_posts) (compare.Ge $section_count 1) }}
+  
     <div class="pa3 pa4-ns w-100 w-70-ns center">
       {{ $n_posts := 20 }}
 
@@ -45,6 +41,6 @@
       {{ end }}
 
     </div>
-  {{ end }}
+  
   </div>
 {{ end }}
