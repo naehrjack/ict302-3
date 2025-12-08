@@ -1,5 +1,5 @@
 +++
-date = '2025-12-6T11:16:18-04:00'
+date = '2025-12-06T11:16:18-04:00'
 title = 'Light and Dark Modes'
 category = "Accessibility Features"
 tags = "Accessibility"
