@@ -4,7 +4,7 @@ date = "2025-12-09T09:00:00-04:00"
 tags = ["accessibility", "design", "examples"]
 +++
 
-Accessibility improves digital experiences by ensuring that websites can be used by people with a wide range of disabilities—including visual, auditory, cognitive, and motor impairments. Below are several key accessibility features, why they matter, and how they support inclusive design.
+Accessibility improves digital experiences by ensuring that websites can be used by people with a wide range of disabilities including visual, auditory, cognitive, and motor impairments. Below are several key accessibility features, why they matter, and how they support inclusive design.
 
 ---
 
@@ -19,7 +19,7 @@ Alt text helps:
 - Users browsing with images disabled  
 - Search engines better understand content  
 
-Good alt text is clear, concise, and communicates the purpose of the image—not just what it looks like.
+Good alt text is clear, concise, and communicates the purpose of the image not just what it looks like.
 
 ---
 
@@ -95,4 +95,4 @@ Accessible sites use headings, labels, ARIA attributes, and clear structure to i
 
 ---
 
-Creating accessible websites isn’t just a legal or ethical obligation—it improves usability, reduces friction, and ensures that digital experiences work for everyone. Small improvements in alt text, navigation, contrast, or text size can significantly transform how people interact with your website.
+Creating accessible websites is not just a legal or ethical obligation it improves usability, reduces friction, and ensures that digital experiences work for everyone. Small improvements in alt text, navigation, contrast, or text size can significantly transform how people interact with your website.
