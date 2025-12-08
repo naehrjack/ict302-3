@@ -118,13 +118,20 @@
       <link>http://localhost:1313/feedback/feedback1/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/feedback/feedback1/</guid>
-      <description>&lt;p&gt;I have a lot of opinions about things. This post contains some of those opinions.&lt;/p&gt;&#xA;&lt;p&gt;More important than any of those opinions, though, is whether they show up properly on the feedback page.&lt;/p&gt;&#xA;&lt;p&gt;Can I &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italicize&lt;/em&gt; content and still have it show up? (It sure looks like it)&lt;/p&gt;</description>
+      <description>&lt;p&gt;Thanks for the list of good screen readers! I&amp;rsquo;ve been looking for something to help out my mother in law.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>
       <link>http://localhost:1313/feedback/feedback2/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/feedback/feedback2/</guid>
+      <description>&lt;p&gt;Curse you, Reed Richards!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naehr Page</title>
+      <link>http://localhost:1313/feedback/feedback3/</link>
+      <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
+      <guid>http://localhost:1313/feedback/feedback3/</guid>
       <description>&lt;p&gt;Curse you, Reed Richards!&lt;/p&gt;</description>
     </item>
     <item>
