@@ -16,10 +16,7 @@ date_format = 'January 2, 2006'
   name = "Accessibilty Features"
   url = "/accessibility/"
   weight = 2
-  [[menu.main]]
-  name = "Blog"
-  url = "/"
-  weight = 3
+ 
 
  [[menu.main]]
   name = "Feedback"
