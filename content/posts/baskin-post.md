@@ -12,9 +12,13 @@ Web accessibility allows people with visual, auditory, motor, or cognitive impai
 
 This website highlights and demonstrates several important accessibility principles:
 
-- **Keyboard navigation** for users who cannot use a mouse  
-- **Proper color contrast and scalable text** for visual accessibility  
-- **Semantic HTML** so screen readers can interpret pages accurately  
-- **Accessible interactive elements**, such as descriptive buttons and forms  
+- Alternative Text  
+- Keyboard Navigation  
+- Light & Dark Modes  
+- Resizable Text  
+- Color Contrast  
+- Screen Readers
+
+To explore these examples in depth, see the extended guide in the next article.
 
 This project exists to help developers understand why accessibility matters and how small improvements can make the web more inclusive.
