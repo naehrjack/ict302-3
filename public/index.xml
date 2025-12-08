@@ -6,8 +6,22 @@
     <description>Recent content on Learn about Web Accessibility</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 08 Dec 2025 11:48:51 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 18:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Web Accessibility Matters</title>
+      <link>http://localhost:1313/posts/baskin-post/</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/baskin-post/</guid>
+      <description>&lt;p&gt;Making the web accessible ensures that everyone regardless of ability can navigate, understand, and interact with digital content.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-accessibility-is-essential&#34;&gt;Why Accessibility Is Essential&lt;/h2&gt;&#xA;&lt;p&gt;Web accessibility allows people with visual, auditory, motor, or cognitive impairments to use websites with equal access. When developers design with accessibility in mind, the web becomes more usable for &lt;strong&gt;everyone&lt;/strong&gt;, not just people with disabilities.&lt;/p&gt;&#xA;&lt;p&gt;This website highlights and demonstrates several important accessibility principles:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Alternative Text&lt;/li&gt;&#xA;&lt;li&gt;Keyboard Navigation&lt;/li&gt;&#xA;&lt;li&gt;Light &amp;amp; Dark Modes&lt;/li&gt;&#xA;&lt;li&gt;Resizable Text&lt;/li&gt;&#xA;&lt;li&gt;Color Contrast&lt;/li&gt;&#xA;&lt;li&gt;Screen Readers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;To explore these examples in depth, see the extended guide in the next article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Essential Web Accessibility Examples and Why They Matter</title>
+      <link>http://localhost:1313/posts/franzen-post/</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/franzen-post/</guid>
+      <description>&lt;p&gt;Accessibility improves digital experiences by ensuring that websites can be used by people with a wide range of disabilities including visual, auditory, cognitive, and motor impairments. Below are several key accessibility features, why they matter, and how they support inclusive design.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;alternative-text&#34;&gt;Alternative Text&lt;/h2&gt;&#xA;&lt;p&gt;Alternative text (alt text) provides written descriptions for images so users who rely on screen readers can understand visual content.&lt;br&gt;&#xA;It is also important when an image fails to load or when users browse with assistive tools.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Alternative Text</title>
       <link>http://localhost:1313/accessibility/test8/</link>
