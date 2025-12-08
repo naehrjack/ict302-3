@@ -1,5 +1,5 @@
 +++
-date = '2025-12-8T11:48:51-04:00'
+date = '2025-12-08T11:16:18-04:00'
 title = 'Keyboard Navigation'
 category = "Accessibility Features"
 tags = "Accessibility"
