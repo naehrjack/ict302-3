@@ -118,21 +118,14 @@
       <link>http://localhost:1313/feedback/feedback1/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/feedback/feedback1/</guid>
-      <description>&lt;p&gt;Thanks for the list of good screen readers! I&amp;rsquo;ve been looking for something to help out my mother in law.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Thanks for the list of good screen readers! I&amp;rsquo;ve been looking for something to help me out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>
-      <link>http://localhost:1313/feedback/feedback2/</link>
+      <link>http://localhost:1313/feedback/feedback4/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
-      <guid>http://localhost:1313/feedback/feedback2/</guid>
-      <description>&lt;p&gt;Curse you, Reed Richards!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Naehr Page</title>
-      <link>http://localhost:1313/feedback/feedback3/</link>
-      <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
-      <guid>http://localhost:1313/feedback/feedback3/</guid>
-      <description>&lt;p&gt;Curse you, Reed Richards!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/feedback/feedback4/</guid>
+      <description>&lt;p&gt;I love this. 10/10&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>
@@ -140,6 +133,13 @@
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/naehr-page/</guid>
       <description>&lt;p&gt;This is a test of content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naehr Page</title>
+      <link>http://localhost:1313/feedback/feedback2/</link>
+      <pubDate>Fri, 18 Jul 2025 11:55:26 -0400</pubDate>
+      <guid>http://localhost:1313/feedback/feedback2/</guid>
+      <description>&lt;p&gt;Wonderful resources in here&amp;hellip; I can finally browse sites without worrying about my readers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Feedback</title>

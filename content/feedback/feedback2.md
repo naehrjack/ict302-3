@@ -1,8 +1,8 @@
 +++
-date = '2025-10-14T11:55:26-04:00'
-author = "Dr. Doom"
+date = '2025-07-18T11:55:26-04:00'
+author = "Smitty WerbenJagerManJensen"
 title = 'Naehr Page'
-feedback_tags = ["obviously fake","Fantastic Four","test"]
 +++
 
-Curse you, Reed Richards! 
+Wonderful resources in here... I can finally browse sites without worrying about my readers.
+
