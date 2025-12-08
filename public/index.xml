@@ -24,31 +24,31 @@
     </item>
     <item>
       <title>test7</title>
-      <link>http://localhost:1313/extrainfo/test7/</link>
+      <link>http://localhost:1313/accessibility/test7/</link>
       <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/extrainfo/test7/</guid>
+      <guid>http://localhost:1313/accessibility/test7/</guid>
       <description>&lt;p&gt;This is test 7&lt;/p&gt;</description>
     </item>
     <item>
       <title>test8</title>
-      <link>http://localhost:1313/extrainfo/test8/</link>
+      <link>http://localhost:1313/accessibility/test8/</link>
       <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/extrainfo/test8/</guid>
+      <guid>http://localhost:1313/accessibility/test8/</guid>
       <description>&lt;p&gt;This is test 8&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test 3</title>
+      <title>Color Contrast</title>
       <link>http://localhost:1313/accessibility/test3/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/accessibility/test3/</guid>
-      <description>&lt;p&gt;Test Post 3&lt;/p&gt;</description>
+      <description>&lt;p&gt;Good color contrast on a webpage makes content easier for everyone to see, especially people with low vision or color blindness. When text stands out clearly from its background, it’s easier to read, navigate, and understand what’s on the page without extra effort. Strong contrast also helps in different lighting conditions, like bright sunlight or dim rooms. Overall, using good contrast is a simple way to make websites more accessible and user-friendly for a wider audience.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test 4</title>
+      <title>Voiceover</title>
       <link>http://localhost:1313/accessibility/test4/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/accessibility/test4/</guid>
-      <description>&lt;p&gt;Test Post 4&lt;/p&gt;</description>
+      <description>&lt;p&gt;Voiceover&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baskin Post</title>
@@ -101,10 +101,31 @@
     </item>
     <item>
       <title>Naehr Page</title>
+      <link>http://localhost:1313/feedback/feedback1/</link>
+      <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
+      <guid>http://localhost:1313/feedback/feedback1/</guid>
+      <description>&lt;p&gt;I have a lot of opinions about things. This post contains some of those opinions.&lt;/p&gt;&#xA;&lt;p&gt;More important than any of those opinions, though, is whether they show up properly on the feedback page.&lt;/p&gt;&#xA;&lt;p&gt;Can I &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italicize&lt;/em&gt; content and still have it show up? (It sure looks like it)&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naehr Page</title>
+      <link>http://localhost:1313/feedback/feedback2/</link>
+      <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
+      <guid>http://localhost:1313/feedback/feedback2/</guid>
+      <description>&lt;p&gt;Curse you, Reed Richards!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naehr Page</title>
       <link>http://localhost:1313/naehr-page/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/naehr-page/</guid>
       <description>&lt;p&gt;This is a test of content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Feedback</title>
+      <link>http://localhost:1313/feedback/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/feedback/</guid>
+      <description></description>
     </item>
     <item>
       <title>Light and Dark Modes</title>

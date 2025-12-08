@@ -3,9 +3,8 @@ languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
 date_format = 'January 2, 2006'
-[taxonomies]
-category = "categories"
-tag = "tags"
+
+
 
 
 [menu]
@@ -14,7 +13,7 @@ tag = "tags"
   url = "/"
   weight = 1
   [[menu.main]]
-  name = "About"
+  name = "Accessibilty Features"
   url = "/accessibility/"
   weight = 2
   [[menu.main]]
@@ -22,3 +21,5 @@ tag = "tags"
   url = "/posts/"
   weight = 3
 
+[taxonomies]
+    feedback_tag = "feedback_tags"
