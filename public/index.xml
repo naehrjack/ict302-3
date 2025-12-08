@@ -58,11 +58,11 @@
       <description>&lt;p&gt;Good color contrast on a webpage makes content easier for everyone to see, especially people with low vision or color blindness. When text stands out clearly from its background, it’s easier to read, navigate, and understand what’s on the page without extra effort. Strong contrast also helps in different lighting conditions, like bright sunlight or dim rooms. Overall, using good contrast is a simple way to make websites more accessible and user-friendly for a wider audience.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Voiceover</title>
+      <title>Screen Readers</title>
       <link>http://localhost:1313/accessibility/test4/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/accessibility/test4/</guid>
-      <description>&lt;p&gt;Voiceover&lt;/p&gt;</description>
+      <description>&lt;p&gt;Screen readers make digital content more accessible by turning on-screen text and interface elements into speech or braille. They’re especially helpful for people who are blind or have low vision, allowing them to move through a webpage, read text, find specific information, and understand what’s happening on the screen without needing to see it. Screen readers work on Windows, macOS, Linux, iOS, Android, and more and come with different command styles and features. Some are free, while others are paid, but all share the same goal of making computers easier to use for people who can’t rely on vision alone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baskin Post</title>
