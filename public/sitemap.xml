@@ -59,9 +59,6 @@
     <loc>http://localhost:1313/baskin-page/</loc>
     <lastmod>2025-10-14T12:13:35-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/feedback_tags/another-test/</loc>
-    <lastmod>2025-10-14T11:55:26-04:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/feedback_tags/fantastic-four/</loc>
     <lastmod>2025-10-14T11:55:26-04:00</lastmod>
   </url><url>
@@ -81,9 +78,6 @@
     <lastmod>2025-10-14T11:55:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/feedback_tags/test/</loc>
-    <lastmod>2025-10-14T11:55:26-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/feedback_tags/yet-another-test/</loc>
     <lastmod>2025-10-14T11:55:26-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/feedback/</loc>
