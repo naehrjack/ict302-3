@@ -1,5 +1,5 @@
 +++
-date = "2025-12-09T09:00:00-05:00"
+date = "2025-12-08T18:00:00-05:00"
 title = "Why Web Accessibility Matters"
 tags = ["accessibility", "inclusive-design"]
 +++

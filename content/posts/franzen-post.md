@@ -1,6 +1,6 @@
 +++
 title = "Essential Web Accessibility Examples and Why They Matter"
-date = "2025-12-09T09:00:00-04:00"
+date = "2025-12-08T18:00:00-04:00"
 tags = ["accessibility", "design", "examples"]
 +++
 
