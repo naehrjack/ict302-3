@@ -6,8 +6,22 @@
     <description>Recent content on Learn about Web Accessibility</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 11:16:18 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 11:48:51 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alternative Text</title>
+      <link>http://localhost:1313/accessibility/test8/</link>
+      <pubDate>Mon, 08 Dec 2025 11:48:51 -0400</pubDate>
+      <guid>http://localhost:1313/accessibility/test8/</guid>
+      <description>&lt;h2 id=&#34;alternative-text&#34;&gt;Alternative Text&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Alternative Text&lt;/em&gt;&lt;/strong&gt; is a method of providing supplementary text to any image included in a piece of content to further contextualize it. This is beneficial to those with disabilities who may not be capable of seeing an image or understanding its meaning. Alternative text can be used in the form of words somewhere close to the image that can be read with a screen reader, magnifier, or other tools to describe necessary information about the provided image. These features are also useful when an image contains interactive multimedia. For example: an image within an advertisement that when clicked opens a link to said product listed on the seller&amp;rsquo;s website. By implementing alternative text into this advertisement, it can provide context to those in need to inform them of the image&amp;rsquo;s contents and its ability to be used as a link to the product. Overall, alternative text can be presented in numerous different forms that all meet the different needs of users, making it a very useful tool for facilitating online disability access.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keyboard Navigation</title>
+      <link>http://localhost:1313/accessibility/test7/</link>
+      <pubDate>Mon, 08 Dec 2025 11:16:18 -0400</pubDate>
+      <guid>http://localhost:1313/accessibility/test7/</guid>
+      <description>&lt;h2 id=&#34;keyboard-navigation&#34;&gt;Keyboard Navigation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Keyboard navigation&lt;/em&gt;&lt;/strong&gt; consists of a set of features and hardware that allows users with disabilities to browse the internet with their keyboard as opposed to using a mouse or fingerpad. Some keyboard navigation features consist of screen readers, magnifiers, and images to help users understand content and execute desired tasks. One feature users can utilize is &lt;em&gt;Mouse Keys&lt;/em&gt;, which is a toggleable setting that allows keys such as the numeric keypad, forward slash, asterisk, minus, and others to move and click the cursor on the screen without needing a mouse, only the keyboard. Another unique feature offered by keyboard navigation comes in the form of hardware, the &lt;em&gt;Mouth Stick&lt;/em&gt;. This tool and its specialized keyboard allow disabled users who cannot use a mouse or press a typical keyboard to do so via a stick that rests in their mouth, which is then used to press the keys without needing to utilize one&amp;rsquo;s fingers. This pairs well with mouse keys, as the specialized keyboard can enable mouse keys, thus allowing users to move the cursor by pressing keys with their mouth stick. With the relevance and usefulness of these features and hardware, keyboard navigation proves to be an extremely useful and necessary tool to support technological accessibility for those with disabilities.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Light and Dark Modes</title>
       <link>http://localhost:1313/accessibility/test1/</link>
@@ -21,13 +35,6 @@
       <pubDate>Sat, 06 Dec 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/accessibility/test2/</guid>
       <description>&lt;h2 id=&#34;resizable-text&#34;&gt;Resizable Text&lt;/h2&gt;&#xA;&lt;p&gt;Resizable text is an accessibility feature that allows users to adjust the size of on-screen text to make content easier to read. Many people rely on larger text because of low vision, eye strain, or simply personal comfort. Modern browsers and operating systems include built-in zoom tools or text-size settings that let users increase or decrease font size without breaking the layout of a site. Designers are encouraged to build pages that remain readable and functional at 200% zoom or higher, ensuring that headings, paragraphs, and navigation all scale smoothly. Even if this site doesn’t implement any advanced resizing controls, understanding how text scaling works highlights the importance of flexibility, readability, and user choice in accessible design.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Keyboard Navigation</title>
-      <link>http://localhost:1313/accessibility/test7/</link>
-      <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test7/</guid>
-      <description>&lt;h2 id=&#34;keyboard-navigation&#34;&gt;Keyboard Navigation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Keyboard navigation&lt;/strong&gt; consists of a set of features and hardware that allows users to browse the internet with their keyboard as opposed to a mouse or fingerpad. Keyboard navigation consists of many features such as screen readers, magnifiers, and shortcuts to execute desired tasks. A unique feature offered by keyboard navigation is the mouth stick. This tool allows disabled users who cannot use a mouse to use a stick that rests in their mouth to press keys on a specialized keyboard. With these accessibility features, keyboard navigation proves to be an extremely useful and necessary tool to support technological accessibility for those with disabilities.&lt;/p&gt;</description>
     </item>
     <item>
       <title>test5</title>
@@ -44,13 +51,6 @@
       <description>&lt;p&gt;This is test 6&lt;/p&gt;</description>
     </item>
     <item>
-      <title>test8</title>
-      <link>http://localhost:1313/accessibility/test8/</link>
-      <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test8/</guid>
-      <description>&lt;p&gt;This is test 8&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Color Contrast</title>
       <link>http://localhost:1313/accessibility/test3/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
@@ -63,20 +63,6 @@
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/accessibility/test4/</guid>
       <description>&lt;p&gt;Screen readers make digital content more accessible by turning on-screen text and interface elements into speech or braille. They’re especially helpful for people who are blind or have low vision, allowing them to move through a webpage, read text, find specific information, and understand what’s happening on the screen without needing to see it. Screen readers work on Windows, macOS, Linux, iOS, Android, and more and come with different command styles and features. Some are free, while others are paid, but all share the same goal of making computers easier to use for people who can’t rely on vision alone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baskin Post</title>
-      <link>http://localhost:1313/posts/baskin-post/</link>
-      <pubDate>Thu, 16 Oct 2025 12:09:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/baskin-post/</guid>
-      <description>&lt;p&gt;pleasee&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Franzen Post</title>
-      <link>http://localhost:1313/posts/franzen-post/</link>
-      <pubDate>Thu, 16 Oct 2025 11:53:23 -0400</pubDate>
-      <guid>http://localhost:1313/posts/franzen-post/</guid>
-      <description>&lt;p&gt;Testing testing&lt;/p&gt;</description>
     </item>
     <item>
       <title>Franzen Page</title>
