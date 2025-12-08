@@ -6,7 +6,10 @@ tags = "Accessibility"
 +++
 
 ## Keyboard Navigation
-**Keyboard navigation** consists of a set of features and hardware that allows users to browse the internet with their keyboard as opposed to a mouse or fingerpad. Keyboard navigation consists of many features such as screen readers, magnifiers, and images to understand content and execute desired tasks. A unique feature offered by keyboard navigation is the mouth stick. This tool allows disabled users who cannot use a mouse to use a stick that rests in their mouth to press keys on a specialized keyboard. With these accessibility features, keyboard navigation proves to be an extremely useful and necessary tool to support technological accessibility for those with disabilities.
+**_Keyboard navigation_** consists of a set of features and hardware that allows users with disabilities to browse the internet with their keyboard as opposed to using a mouse or fingerpad. Some keyboard navigation features consist of screen readers, magnifiers, and images to help users understand content and execute desired tasks. One feature users can utilize is *Mouse Keys*, which is a toggleable setting that allows keys such as the numeric keypad, forward slash, asterisk, minus, and others to move and click the cursor on the screen without needing a mouse, only the keyboard. Another unique feature offered by keyboard navigation comes in the form of hardware, the *Mouth Stick*. This tool and its specialized keyboard allow disabled users who cannot use a mouse or press a typical keyboard to do so via a stick that rests in their mouth, which is then used to press the keys without needing to utilize one's fingers. This pairs well with mouse keys, as the specialized keyboard can enable mouse keys, thus allowing users to move the cursor by pressing keys with their mouth stick. With the relevance and usefulness of these features and hardware, keyboard navigation proves to be an extremely useful and necessary tool to support technological accessibility for those with disabilities.
 
-**For more information** on Windows keyboard shortcuts, see their provided list:
-[Windows Keyboard Shortcuts for Accessibility](https://support.microsoft.com/en-us/windows/windows-keyboard-shortcuts-for-accessibility-021bcb62-45c8-e4ef-1e4f-41b8c1fc87fd)
+**To enable *mouse keys*,** see Microsoft's website for a step-by-step guide:
+[Use Mouse Keys to Move the Pointer](https://support.microsoft.com/en-us/windows/use-mouse-keys-to-move-the-mouse-pointer-9e0c72c8-b882-7918-8e7b-391fd62adf33)
+
+To see an example of a **currently purchaseable *mouth stick* and its keyboard**, see this product listing:
+[Maltron Head/Mouth Stick Keyboard](https://cap.mil/products/1175)
