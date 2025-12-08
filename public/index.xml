@@ -44,20 +44,6 @@
       <description>&lt;p&gt;Good color contrast on a webpage makes content easier for everyone to see, especially people with low vision or color blindness. When text stands out clearly from its background, it’s easier to read, navigate, and understand what’s on the page without extra effort. Strong contrast also helps in different lighting conditions, like bright sunlight or dim rooms. Overall, using good contrast is a simple way to make websites more accessible and user-friendly for a wider audience.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Test 1</title>
-      <link>http://localhost:1313/accessibility/test1/</link>
-      <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test1/</guid>
-      <description>&lt;p&gt;Test Post 1&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test 2</title>
-      <link>http://localhost:1313/accessibility/test2/</link>
-      <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test2/</guid>
-      <description>&lt;p&gt;Test Post 2&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Voiceover</title>
       <link>http://localhost:1313/accessibility/test4/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
@@ -140,6 +126,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/feedback/</guid>
       <description></description>
+    </item>
+    <item>
+      <title>Light and Dark Modes</title>
+      <link>http://localhost:1313/accessibility/test1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/accessibility/test1/</guid>
+      <description>&lt;h2 id=&#34;light-and-dark-modes&#34;&gt;Light and Dark Modes&lt;/h2&gt;&#xA;&lt;p&gt;Light and dark modes are two different visual styles used across modern websites and apps to make content easier on the eyes. Light mode uses brighter backgrounds and higher contrast, which feels familiar and clean, especially in daytime or well-lit environments. Dark mode flips that by using darker tones to reduce glare, cut down on eye strain, and make long reading or late-night browsing more comfortable. Many platforms now allow users to switch between the two or match their device’s system settings. Even though this site doesn’t implement a light/dark toggle, understanding the idea helps explain how designers think about accessibility, comfort, and user choice. It’s a simple example of how presentation affects the way people experience content.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Resizable Text</title>
+      <link>http://localhost:1313/accessibility/test2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/accessibility/test2/</guid>
+      <description>&lt;h2 id=&#34;resizable-text&#34;&gt;Resizable Text&lt;/h2&gt;&#xA;&lt;p&gt;Resizable text is an accessibility feature that allows users to adjust the size of on-screen text to make content easier to read. Many people rely on larger text because of low vision, eye strain, or simply personal comfort. Modern browsers and operating systems include built-in zoom tools or text-size settings that let users increase or decrease font size without breaking the layout of a site. Designers are encouraged to build pages that remain readable and functional at 200% zoom or higher, ensuring that headings, paragraphs, and navigation all scale smoothly. Even if this site doesn’t implement any advanced resizing controls, understanding how text scaling works highlights the importance of flexibility, readability, and user choice in accessible design.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
