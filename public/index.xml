@@ -23,6 +23,13 @@
       <description>&lt;h2 id=&#34;resizable-text&#34;&gt;Resizable Text&lt;/h2&gt;&#xA;&lt;p&gt;Resizable text is an accessibility feature that allows users to adjust the size of on-screen text to make content easier to read. Many people rely on larger text because of low vision, eye strain, or simply personal comfort. Modern browsers and operating systems include built-in zoom tools or text-size settings that let users increase or decrease font size without breaking the layout of a site. Designers are encouraged to build pages that remain readable and functional at 200% zoom or higher, ensuring that headings, paragraphs, and navigation all scale smoothly. Even if this site doesn’t implement any advanced resizing controls, understanding how text scaling works highlights the importance of flexibility, readability, and user choice in accessible design.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Keyboard Navigation</title>
+      <link>http://localhost:1313/accessibility/test7/</link>
+      <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
+      <guid>http://localhost:1313/accessibility/test7/</guid>
+      <description>&lt;h2 id=&#34;keyboard-navigation&#34;&gt;Keyboard Navigation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Keyboard navigation&lt;/strong&gt; consists of a set of features and hardware that allows users to browse the internet with their keyboard as opposed to a mouse or fingerpad. Keyboard navigation consists of many features such as screen readers, magnifiers, and shortcuts to execute desired tasks. A unique feature offered by keyboard navigation is the mouth stick. This tool allows disabled users who cannot use a mouse to use a stick that rests in their mouth to press keys on a specialized keyboard. With these accessibility features, keyboard navigation proves to be an extremely useful and necessary tool to support technological accessibility for those with disabilities.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>test5</title>
       <link>http://localhost:1313/extrainfo/test5/</link>
       <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
@@ -35,13 +42,6 @@
       <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
       <guid>http://localhost:1313/extrainfo/test6/</guid>
       <description>&lt;p&gt;This is test 6&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test7</title>
-      <link>http://localhost:1313/accessibility/test7/</link>
-      <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test7/</guid>
-      <description>&lt;p&gt;This is test 7&lt;/p&gt;</description>
     </item>
     <item>
       <title>test8</title>
@@ -125,7 +125,7 @@
       <link>http://localhost:1313/feedback/feedback4/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/feedback/feedback4/</guid>
-      <description>&lt;p&gt;I love this. 10/10&lt;/p&gt;</description>
+      <description>&lt;p&gt;I love this. 10/10.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>

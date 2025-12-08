@@ -4,5 +4,5 @@ author = "My Name is Jeff"
 title = 'Naehr Page'
 +++
 
-I love this. 10/10
+I love this. 10/10.
 
