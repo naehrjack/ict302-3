@@ -10,3 +10,6 @@ tags = "Accessibility"
 
 **Disability access laws such as Section 508** enforce the requirement to include accessibility features online, as the specific guidelines pertaining to alternative text are explained by the US Government:
 [Authoring Meaningful Alternative Text](https://www.section508.gov/create/alternative-text/)
+
+![alt](/images/alt.jpg)
+[Source for Alt Text Image](https://ahrefs.com/blog/alt-text/)
