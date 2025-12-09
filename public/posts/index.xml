@@ -22,19 +22,5 @@
       <guid>http://localhost:1313/posts/franzen-post/</guid>
       <description>&lt;p&gt;Accessibility improves digital experiences by ensuring that websites can be used by people with a wide range of disabilities including visual, auditory, cognitive, and motor impairments. Below are several key accessibility features, why they matter, and how they support inclusive design.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;alternative-text&#34;&gt;Alternative Text&lt;/h2&gt;&#xA;&lt;p&gt;Alternative text (alt text) provides written descriptions for images so users who rely on screen readers can understand visual content.&lt;br&gt;&#xA;It is also important when an image fails to load or when users browse with assistive tools.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Maloney Post</title>
-      <link>http://localhost:1313/posts/maloney-post/</link>
-      <pubDate>Thu, 16 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/maloney-post/</guid>
-      <description>&lt;p&gt;This is Jared&amp;rsquo;s post.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Naehr Post</title>
-      <link>http://localhost:1313/posts/naehr-post/</link>
-      <pubDate>Thu, 16 Oct 2025 11:16:18 -0400</pubDate>
-      <guid>http://localhost:1313/posts/naehr-post/</guid>
-      <description>&lt;p&gt;This is some more content!!!&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>

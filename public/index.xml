@@ -87,9 +87,9 @@
     </item>
     <item>
       <title>Maloney Post</title>
-      <link>http://localhost:1313/posts/maloney-post/</link>
+      <link>http://localhost:1313/maloney-post/</link>
       <pubDate>Thu, 16 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/maloney-post/</guid>
+      <guid>http://localhost:1313/maloney-post/</guid>
       <description>&lt;p&gt;This is Jared&amp;rsquo;s post.&lt;/p&gt;</description>
     </item>
     <item>
@@ -98,13 +98,6 @@
       <pubDate>Thu, 16 Oct 2025 11:42:39 -0400</pubDate>
       <guid>http://localhost:1313/maloney-page/</guid>
       <description>&lt;p&gt;This is Jared&amp;rsquo;s page.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Naehr Post</title>
-      <link>http://localhost:1313/posts/naehr-post/</link>
-      <pubDate>Thu, 16 Oct 2025 11:16:18 -0400</pubDate>
-      <guid>http://localhost:1313/posts/naehr-post/</guid>
-      <description>&lt;p&gt;This is some more content!!!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Baskin Page</title>
