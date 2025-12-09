@@ -10,4 +10,3 @@ Resizable text is an accessibility feature that allows users to adjust the size 
 For more on how text resizing supports accessibility, see:  
 [Enable Text Resizing – Harvard University Accessibility](https://accessibility.huit.harvard.edu/technique-enable-text-resizing)
 
-![Text Size Example](/images/text-side.avif)
