@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-10T11:55:26-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/accessibility/</loc>
+    <lastmod>2025-12-08T18:00:00-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/inclusive-design/</loc>
     <lastmod>2025-12-08T18:00:00-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2025-12-08T18:00:00-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-12-08T18:00:00-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/baskin-post/</loc>
     <lastmod>2025-12-08T18:00:00-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/design/</loc>
+    <lastmod>2025-12-08T18:00:00-04:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/franzen-post/</loc>
+    <lastmod>2025-12-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/examples/</loc>
     <lastmod>2025-12-08T18:00:00-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/accessibility/</loc>
@@ -52,6 +67,9 @@
   </url><url>
     <loc>http://localhost:1313/maloney-page/</loc>
     <lastmod>2025-10-16T11:42:39-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/naehr-post/</loc>
+    <lastmod>2025-10-16T11:16:18-04:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/baskin-page/</loc>
     <lastmod>2025-10-14T12:13:35-04:00</lastmod>

@@ -100,6 +100,13 @@
       <description>&lt;p&gt;This is Jared&amp;rsquo;s page.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Naehr Post</title>
+      <link>http://localhost:1313/naehr-post/</link>
+      <pubDate>Thu, 16 Oct 2025 11:16:18 -0400</pubDate>
+      <guid>http://localhost:1313/naehr-post/</guid>
+      <description>&lt;p&gt;This is some more content!!!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Baskin Page</title>
       <link>http://localhost:1313/baskin-page/</link>
       <pubDate>Tue, 14 Oct 2025 12:13:35 -0400</pubDate>
