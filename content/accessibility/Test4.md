@@ -13,5 +13,4 @@ This website doesn’t include its own built-in screen reader, but with the link
 
 For more information on different screen readers see: https://afb.org/blindness-and-low-vision/using-technology/assistive-technology-products/screen-readers
 
-
-
+![reader](/images/Screen-reader.jpeg)
