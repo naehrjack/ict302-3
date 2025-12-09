@@ -10,4 +10,4 @@ Good color contrast on a webpage makes content easier for everyone to see, espec
 
 For this page, we made sure to use colors with strong contrast so everything is easy to read at a glance. We also checked our site with a WCAG (Web Content Accessibility Guidelines) Color Contrast Checker to confirm that the design meets accessibility guidelines. This helps ensure the page works well for as many people as possible.
 
-![color](/images/ss.jpg)
+![Current theme colors](/images/ss.jpg)
