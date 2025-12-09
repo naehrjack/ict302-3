@@ -22,3 +22,5 @@ This website highlights and demonstrates several important accessibility princip
 To explore these examples in depth, see the extended guide in the next article.
 
 This project exists to help developers understand why accessibility matters and how small improvements can make the web more inclusive.
+
+
