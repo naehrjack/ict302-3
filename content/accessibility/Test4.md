@@ -15,5 +15,5 @@ For more information on different screen readers see: https://afb.org/blindness-
 
 
 
-![reader](/images/Screen-reader.jpg)
+![reader](/images/Screen-reader.jpeg)
 
