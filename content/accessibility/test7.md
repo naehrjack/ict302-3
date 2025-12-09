@@ -13,3 +13,6 @@ tags = "Accessibility"
 
 To see an example of a **currently purchaseable *mouth stick* and its keyboard**, see this product listing:
 [Maltron Head/Mouth Stick Keyboard](https://cap.mil/products/1175)
+
+![keyboard](/images/key.jpg)
+[Source for image](https://medium.com/thinking-design/best-practices-for-prototyping-keyboard-accessibility-cc2b06a96627) 
