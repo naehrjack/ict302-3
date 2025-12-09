@@ -1,13 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Learn about Web Accessibility</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Learn about Web Accessibility</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Dec 2025 11:16:18 -0400</lastBuildDate>
+    <lastBuildDate>Mon, 08 Dec 2025 18:00:00 -0500</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Web Accessibility Matters</title>
+      <link>http://localhost:1313/posts/baskin-post/</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/baskin-post/</guid>
+      <description>&lt;p&gt;Making the web accessible ensures that everyone regardless of ability can navigate, understand, and interact with digital content.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-accessibility-is-essential&#34;&gt;Why Accessibility Is Essential&lt;/h2&gt;&#xA;&lt;p&gt;Web accessibility allows people with visual, auditory, motor, or cognitive impairments to use websites with equal access. When developers design with accessibility in mind, the web becomes more usable for &lt;strong&gt;everyone&lt;/strong&gt;, not just people with disabilities.&lt;/p&gt;&#xA;&lt;p&gt;This website highlights and demonstrates several important accessibility principles:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Alternative Text&lt;/li&gt;&#xA;&lt;li&gt;Keyboard Navigation&lt;/li&gt;&#xA;&lt;li&gt;Light &amp;amp; Dark Modes&lt;/li&gt;&#xA;&lt;li&gt;Resizable Text&lt;/li&gt;&#xA;&lt;li&gt;Color Contrast&lt;/li&gt;&#xA;&lt;li&gt;Screen Readers&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;To explore these examples in depth, see the extended guide in the next article.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Essential Web Accessibility Examples and Why They Matter</title>
+      <link>http://localhost:1313/posts/franzen-post/</link>
+      <pubDate>Mon, 08 Dec 2025 18:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/posts/franzen-post/</guid>
+      <description>&lt;p&gt;Accessibility improves digital experiences by ensuring that websites can be used by people with a wide range of disabilities including visual, auditory, cognitive, and motor impairments. Below are several key accessibility features, why they matter, and how they support inclusive design.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;alternative-text&#34;&gt;Alternative Text&lt;/h2&gt;&#xA;&lt;p&gt;Alternative text (alt text) provides written descriptions for images so users who rely on screen readers can understand visual content.&lt;br&gt;&#xA;It is also important when an image fails to load or when users browse with assistive tools.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Alternative Text</title>
+      <link>http://localhost:1313/accessibility/test8/</link>
+      <pubDate>Mon, 08 Dec 2025 11:48:51 -0400</pubDate>
+      <guid>http://localhost:1313/accessibility/test8/</guid>
+      <description>&lt;h2 id=&#34;alternative-text&#34;&gt;Alternative Text&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Alternative Text&lt;/em&gt;&lt;/strong&gt; is a method of providing supplementary text to any image included in a piece of content to further contextualize it. This is beneficial to those with disabilities who may not be capable of seeing an image or understanding its meaning. Alternative text can be used in the form of words somewhere close to the image that can be read with a screen reader, magnifier, or other tools to describe necessary information about the provided image. These features are also useful when an image contains interactive multimedia. For example: an image within an advertisement that when clicked opens a link to said product listed on the seller&amp;rsquo;s website. By implementing alternative text into this advertisement, it can provide context to those in need to inform them of the image&amp;rsquo;s contents and its ability to be used as a link to the product. Overall, alternative text can be presented in numerous different forms that all meet the different needs of users, making it a very useful tool for facilitating online disability access.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Keyboard Navigation</title>
+      <link>http://localhost:1313/accessibility/test7/</link>
+      <pubDate>Mon, 08 Dec 2025 11:16:18 -0400</pubDate>
+      <guid>http://localhost:1313/accessibility/test7/</guid>
+      <description>&lt;h2 id=&#34;keyboard-navigation&#34;&gt;Keyboard Navigation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Keyboard navigation&lt;/em&gt;&lt;/strong&gt; consists of a set of features and hardware that allows users with disabilities to browse the internet with their keyboard as opposed to using a mouse or fingerpad. Some keyboard navigation features consist of screen readers, magnifiers, and images to help users understand content and execute desired tasks. One feature users can utilize is &lt;em&gt;Mouse Keys&lt;/em&gt;, which is a toggleable setting that allows keys such as the numeric keypad, forward slash, asterisk, minus, and others to move and click the cursor on the screen without needing a mouse, only the keyboard. Another unique feature offered by keyboard navigation comes in the form of hardware, the &lt;em&gt;Mouth Stick&lt;/em&gt;. This tool and its specialized keyboard allow disabled users who cannot use a mouse or press a typical keyboard to do so via a stick that rests in their mouth, which is then used to press the keys without needing to utilize one&amp;rsquo;s fingers. This pairs well with mouse keys, as the specialized keyboard can enable mouse keys, thus allowing users to move the cursor by pressing keys with their mouth stick. With the relevance and usefulness of these features and hardware, keyboard navigation proves to be an extremely useful and necessary tool to support technological accessibility for those with disabilities.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Light and Dark Modes</title>
       <link>http://localhost:1313/accessibility/test1/</link>
@@ -37,20 +65,6 @@
       <description>&lt;p&gt;This is test 6&lt;/p&gt;</description>
     </item>
     <item>
-      <title>test7</title>
-      <link>http://localhost:1313/accessibility/test7/</link>
-      <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test7/</guid>
-      <description>&lt;p&gt;This is test 7&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>test8</title>
-      <link>http://localhost:1313/accessibility/test8/</link>
-      <pubDate>Thu, 23 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/accessibility/test8/</guid>
-      <description>&lt;p&gt;This is test 8&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Color Contrast</title>
       <link>http://localhost:1313/accessibility/test3/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
@@ -58,25 +72,11 @@
       <description>&lt;p&gt;Good color contrast on a webpage makes content easier for everyone to see, especially people with low vision or color blindness. When text stands out clearly from its background, it’s easier to read, navigate, and understand what’s on the page without extra effort. Strong contrast also helps in different lighting conditions, like bright sunlight or dim rooms. Overall, using good contrast is a simple way to make websites more accessible and user-friendly for a wider audience.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Voiceover</title>
+      <title>Screen Readers</title>
       <link>http://localhost:1313/accessibility/test4/</link>
       <pubDate>Thu, 23 Oct 2025 11:16:18 -0400</pubDate>
       <guid>http://localhost:1313/accessibility/test4/</guid>
-      <description>&lt;p&gt;Voiceover&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Baskin Post</title>
-      <link>http://localhost:1313/posts/baskin-post/</link>
-      <pubDate>Thu, 16 Oct 2025 12:09:54 -0400</pubDate>
-      <guid>http://localhost:1313/posts/baskin-post/</guid>
-      <description>&lt;p&gt;pleasee&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Franzen Post</title>
-      <link>http://localhost:1313/posts/franzen-post/</link>
-      <pubDate>Thu, 16 Oct 2025 11:53:23 -0400</pubDate>
-      <guid>http://localhost:1313/posts/franzen-post/</guid>
-      <description>&lt;p&gt;Testing testing&lt;/p&gt;</description>
+      <description>&lt;p&gt;Screen readers make digital content more accessible by turning on-screen text and interface elements into speech or braille. They’re especially helpful for people who are blind or have low vision, allowing them to move through a webpage, read text, find specific information, and understand what’s happening on the screen without needing to see it. Screen readers work on Windows, macOS, Linux, iOS, Android, and more and come with different command styles and features. Some are free, while others are paid, but all share the same goal of making computers easier to use for people who can’t rely on vision alone.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Franzen Page</title>
@@ -87,9 +87,9 @@
     </item>
     <item>
       <title>Maloney Post</title>
-      <link>http://localhost:1313/posts/maloney-post/</link>
+      <link>http://localhost:1313/maloney-post/</link>
       <pubDate>Thu, 16 Oct 2025 11:48:51 -0400</pubDate>
-      <guid>http://localhost:1313/posts/maloney-post/</guid>
+      <guid>http://localhost:1313/maloney-post/</guid>
       <description>&lt;p&gt;This is Jared&amp;rsquo;s post.&lt;/p&gt;</description>
     </item>
     <item>
@@ -101,9 +101,9 @@
     </item>
     <item>
       <title>Naehr Post</title>
-      <link>http://localhost:1313/posts/naehr-post/</link>
+      <link>http://localhost:1313/naehr-post/</link>
       <pubDate>Thu, 16 Oct 2025 11:16:18 -0400</pubDate>
-      <guid>http://localhost:1313/posts/naehr-post/</guid>
+      <guid>http://localhost:1313/naehr-post/</guid>
       <description>&lt;p&gt;This is some more content!!!&lt;/p&gt;</description>
     </item>
     <item>
@@ -118,14 +118,14 @@
       <link>http://localhost:1313/feedback/feedback1/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/feedback/feedback1/</guid>
-      <description>&lt;p&gt;I have a lot of opinions about things. This post contains some of those opinions.&lt;/p&gt;&#xA;&lt;p&gt;More important than any of those opinions, though, is whether they show up properly on the feedback page.&lt;/p&gt;&#xA;&lt;p&gt;Can I &lt;strong&gt;bold&lt;/strong&gt; and &lt;em&gt;italicize&lt;/em&gt; content and still have it show up? (It sure looks like it)&lt;/p&gt;</description>
+      <description>&lt;p&gt;Thanks for the list of good screen readers! I&amp;rsquo;ve been looking for something to help me out.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>
-      <link>http://localhost:1313/feedback/feedback2/</link>
+      <link>http://localhost:1313/feedback/feedback4/</link>
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
-      <guid>http://localhost:1313/feedback/feedback2/</guid>
-      <description>&lt;p&gt;Curse you, Reed Richards!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/feedback/feedback4/</guid>
+      <description>&lt;p&gt;I love this. 10/10.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Naehr Page</title>
@@ -133,6 +133,13 @@
       <pubDate>Tue, 14 Oct 2025 11:55:26 -0400</pubDate>
       <guid>http://localhost:1313/naehr-page/</guid>
       <description>&lt;p&gt;This is a test of content&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Naehr Page</title>
+      <link>http://localhost:1313/feedback/feedback2/</link>
+      <pubDate>Fri, 18 Jul 2025 11:55:26 -0400</pubDate>
+      <guid>http://localhost:1313/feedback/feedback2/</guid>
+      <description>&lt;p&gt;Wonderful resources in here&amp;hellip; I can finally browse sites without worrying about my readers.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Feedback</title>

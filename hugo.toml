@@ -1,6 +1,6 @@
 baseURL = 'https://coruscating-conkies-9af9d6.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Learn about Web Accessibility'
 theme = 'ananke'
 date_format = 'January 2, 2006'
 
@@ -16,10 +16,7 @@ date_format = 'January 2, 2006'
   name = "Accessibilty Features"
   url = "/accessibility/"
   weight = 2
-  [[menu.main]]
-  name = "Blog"
-  url = "/"
-  weight = 3
+ 
 
  [[menu.main]]
   name = "Feedback"
@@ -28,3 +25,4 @@ date_format = 'January 2, 2006'
 
 [taxonomies]
     feedback_tag = "feedback_tags"
+ tag = 'tags'
