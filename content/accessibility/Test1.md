@@ -11,3 +11,4 @@ Light and dark modes are two different visual styles used across modern websites
 
 For more information on Light and Dark Modes, see the Nielsen Norman Group article:  
 [Dark-Mode Users: Common Issues & How to Avoid Them](https://www.nngroup.com/articles/dark-mode-users-issues/)
+![Light/Dark Toggle Example](/images/light-dark.webp)
