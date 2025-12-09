@@ -25,3 +25,4 @@ date_format = 'January 2, 2006'
 
 [taxonomies]
     feedback_tag = "feedback_tags"
+ tag = 'tags'
